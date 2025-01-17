@@ -7,7 +7,7 @@ public class TestScript : MonoBehaviour
     // Start is called before the first frame update
     void Strart()
     {
-        // use one type of loops one at a time and comment out the others
+        // use each type of loops one at a time and comment out the others
         int itemCount = 5;
         // 1- while loop
         while (itemCount > 0)
